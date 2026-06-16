@@ -105,21 +105,7 @@ Traditional university networks often lack scalability, security, and smart auto
 
 ---
 
-## 🧑‍💻 Authors
 
-👨‍🎓 Group 04 – MIST  
-- Aunindya Prosad Saha (202114014)  
-- G M Fahim Tazwar (202114025)  
-- Md. Raiyan Buhiyan Loreen (202114052)  
-- Md. Raisul Islam Rahad (202214052)
-
----
-
-## 📷 Screenshots
-
-> _Add snapshots from Packet Tracer and your PowerPoint presentation for better visual impact._
-
----
 
 ## 📁 Files
 
